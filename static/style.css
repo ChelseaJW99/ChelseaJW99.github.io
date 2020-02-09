@@ -10,4 +10,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
+ <ul class="sub-menu"> {
+     display: inline;
+}
 
