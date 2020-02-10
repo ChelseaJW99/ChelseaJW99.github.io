@@ -1,6 +1,6 @@
 body { 
-    font-family: 'Brandon Grotesque', 'times';
-    font-size; 120%;
+    font-family: 'Brandon Grotesque', 'times', serif;
+    font-size: 120%;
 }
 ul.main-menu {
     list-style-type: none;
@@ -10,7 +10,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
- <ul class="sub-menu"> {
+ul.sub-menu {
      display: inline;
 }
 
