@@ -11,6 +11,7 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
+     text-align: center; 
 }
 ul.sub-menu {
      display: inline;
