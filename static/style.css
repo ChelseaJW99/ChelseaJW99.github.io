@@ -16,4 +16,7 @@ ul.main-menu>li {
 ul.sub-menu {
      display: inline;
 }
-
+title {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 120%;
+}
