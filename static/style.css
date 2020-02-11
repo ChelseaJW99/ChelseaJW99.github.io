@@ -16,6 +16,8 @@ ul.main-menu>li {
 }
 ul.sub-menu {
      display: inline;
+     font-family: 'Nanum Gothic Coding', monospace;
+     font-size: 90%; 
 }
 title {
     font-family: 'Cinzel Decorative', cursive;
