@@ -14,10 +14,14 @@ ul.main-menu>li {
     display: inline;
      text-align: center; 
 }
-ul.sub-menu {
-     display: inline;
-     font-family: 'Nanum Gothic Coding', monospace;
-     font-size: 90%; 
+ul.sub-menu>li {
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 90%; 
+    text-align: center; 
 }
 title {
     font-family: 'Cinzel Decorative', cursive;
