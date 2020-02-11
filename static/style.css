@@ -1,4 +1,4 @@
-body { 
+ul.body { 
     font-family: 'serif';
     font-size: 125%;
 }
@@ -23,7 +23,7 @@ ul.sub-menu>li {
     font-size: 50%; 
     text-align: center; 
 }
-title {
+ul.title {
     font-family: 'Cinzel Decorative', cursive;
     font-size: 120%;
     text-align: center; 
