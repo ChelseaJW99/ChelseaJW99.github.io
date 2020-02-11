@@ -1,6 +1,7 @@
 body { 
     font-family: 'serif';
     font-size: 125%;
+    margin: 20%; 
 }
 ul.main-menu {
     list-style-type: none;
