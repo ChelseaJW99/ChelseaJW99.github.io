@@ -7,7 +7,7 @@ ul.main-menu {
     margin: 0;
     padding: 0;
     font-family: 'Nanum Gothic Coding', monospace;
-    font-size: 90%; 
+    font-size: 125%; 
     text-align: center; 
 }
 ul.main-menu>li {
@@ -20,7 +20,7 @@ ul.sub-menu>li {
     padding: 0;
     display: inline;
     font-family: 'Nanum Gothic Coding', monospace;
-    font-size: 50%; 
+    font-size: 100%; 
     text-align: center; 
 }
 ul.title {
