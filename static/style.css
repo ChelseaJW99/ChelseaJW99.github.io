@@ -1,5 +1,6 @@
-<h1 style="background-color:Black;">Chelsea Wyatt's Portfolio</h1>
-<h1 style="color:Ivory;">Chelsea Wyatt's Portfolio</h1>
+h1 {background-color:Black;}
+h1 {color:Ivory;}
+
 body { 
     font-family: 'serif';
     font-size: 125%;
