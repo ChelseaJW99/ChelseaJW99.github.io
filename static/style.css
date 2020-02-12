@@ -1,6 +1,7 @@
-h1 {background-color:Black;}
-h1 {color:Ivory;}
-
+h1 {
+    background-color:Black;
+    color:Ivory;
+}
 body { 
     font-family: 'serif';
     font-size: 125%;
