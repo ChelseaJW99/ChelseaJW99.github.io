@@ -2,11 +2,15 @@ h1 {
     background-color: #000000;
     color: #FFFFF0;
     text-align: center;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 120%;
 }
+
 body { 
     font-family: 'serif';
     font-size: 125%;
 }
+
 ul.main-menu {
     list-style-type: none;
     margin: 0;
@@ -15,10 +19,12 @@ ul.main-menu {
     font-size: 125%; 
     text-align: center; 
 }
+
 ul.main-menu>li {
     display: inline;
      text-align: center; 
 }
+
 ul.sub-menu>li {
    list-style-type: none;
     margin: 0;
@@ -27,10 +33,5 @@ ul.sub-menu>li {
     font-family: 'Nanum Gothic Coding', monospace;
     font-size: 100%; 
     text-align: center; 
-}
-title {
-    font-family: 'Cinzel Decorative', cursive;
-    font-size: 120%;
-    text-align: center;
 }
 
