@@ -13,6 +13,7 @@ h1 {
 body { 
     font-family: 'serif';
     font-size: 125%;
+    text-align: center; 
 }
 
 ul.main-menu {
