@@ -13,6 +13,8 @@ h1 {
 body { 
     font-family: 'serif';
     font-size: 125%;
+    margin-left: 50px;
+    margin-right: 25px;
 }
 
 ul.main-menu {
