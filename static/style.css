@@ -47,7 +47,8 @@ ul.sub-menu>li {
 }
 
 h2 {
-font-family: 'Montserrat', sans-serif;
-text-transform: uppercase;
-text-align: center; 
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align: center; 
+    text-style: italic; 
 }
