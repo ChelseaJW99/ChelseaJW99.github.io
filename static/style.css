@@ -53,3 +53,6 @@ h2 {
     text-align: center; 
     text-style: italic; 
 }
+p.original {
+background-color: #DCDCDC; 
+}
