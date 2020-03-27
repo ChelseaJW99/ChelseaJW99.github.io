@@ -29,6 +29,7 @@ ul.main-menu {
     font-size: 14px;
     border-bottom-style: solid;
     border-bottom-width: thin;
+    text-decoration: none;
 }
 
 ul.main-menu>li {
@@ -46,6 +47,7 @@ ul.sub-menu>li {
     line-height: 60px;
     letter-spacing: .125em;
     font-size: 14px; 
+    text-decoration: none;
 }
 
 h2 {
