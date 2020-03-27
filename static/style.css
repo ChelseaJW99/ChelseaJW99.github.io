@@ -60,8 +60,12 @@ p.original {
 background-color: #DCDCDC; 
 }
 
-a:-webkit-any-link {
-    color: -webkit-link;
+a:link {
+    color: black;
     cursor: pointer;
     text-decoration: none;
+}
+
+a:hover {
+    text decoratioin: underline;
 }
