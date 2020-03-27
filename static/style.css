@@ -34,6 +34,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
      text-align: center; 
+    text-decoration: none;
 }
 
 ul.sub-menu>li {
