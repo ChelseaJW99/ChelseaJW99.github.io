@@ -59,3 +59,9 @@ h2 {
 p.original {
 background-color: #DCDCDC; 
 }
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+}
