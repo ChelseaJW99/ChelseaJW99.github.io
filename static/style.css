@@ -69,3 +69,15 @@ a:link {
 a:hover {
     text decoratioin: underline;
 }
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table { margin: 0 auto; }
+
+th { text-align: center; 
+     background-color: black;
+     color: white;}
+
