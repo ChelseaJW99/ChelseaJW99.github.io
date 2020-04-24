@@ -36,6 +36,8 @@ ul.main-menu>li {
     display: inline;
      text-align: center; 
     text-decoration: none;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
 }
 
 ul.sub-menu>li {
